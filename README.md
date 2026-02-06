@@ -24,3 +24,11 @@ with the university in a fast and user-friendly way.
 - Artificial Intelligence
 - Machine Learning
 - Natural Language Processing (NLP)
+
+## What I Learned
+- Understanding the basic concept of AI-powered chatbots
+- How machine learning can be used to process user questions
+- Basics of Natural Language Processing (NLP)
+- Structuring academic information for automated responses
+- Importance of user-friendly systems in educational environments
+
